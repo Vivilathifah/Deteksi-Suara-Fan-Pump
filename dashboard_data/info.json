@@ -1,0 +1,7 @@
+{
+ "sr": 16000,
+ "groups": 24,
+ "samples": 24,
+ "env_bins": 1200,
+ "feat_max_frames": 160
+}
