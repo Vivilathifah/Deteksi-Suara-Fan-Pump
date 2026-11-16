@@ -1,0 +1,5 @@
+machine,feature,pearson,spearman,MAPE_pct,speedup_pair_(DTW/FastDTW),speedup_vs_python_dtw
+fan,LogMel,1.0,1.0,0.006,0.1045,40.126
+fan,MFCC,1.0,1.0,0.047,0.0292,13.9394
+pump,LogMel,1.0,1.0,0.0029,0.1061,40.8832
+pump,MFCC,1.0,1.0,0.0395,0.0297,14.1677

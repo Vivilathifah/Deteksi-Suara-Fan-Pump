@@ -1,0 +1,87 @@
+{
+ "2": {
+  "medoid_idx": [
+   14,
+   4
+  ],
+  "medoid_ids": [
+   "dev__pump__section_01_source_train_normal_0419_serial_no_010_water",
+   "dev__pump__section_01_source_train_normal_0001_serial_no_010_water"
+  ],
+  "objective": 64.08455159621766,
+  "iterations": 2,
+  "m": 2.0
+ },
+ "3": {
+  "medoid_idx": [
+   6,
+   23,
+   16
+  ],
+  "medoid_ids": [
+   "dev__pump__section_01_source_train_normal_0144_serial_no_010_water",
+   "dev__pump__section_01_source_train_normal_0767_serial_no_010_water",
+   "dev__pump__section_01_source_train_normal_0445_serial_no_010_water"
+  ],
+  "objective": 44.06269470728894,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "4": {
+  "medoid_idx": [
+   16,
+   8,
+   14,
+   1
+  ],
+  "medoid_ids": [
+   "dev__pump__section_01_source_train_normal_0445_serial_no_010_water",
+   "dev__pump__section_01_source_train_normal_0228_serial_no_010_water",
+   "dev__pump__section_01_source_train_normal_0419_serial_no_010_water",
+   "dev__pump__section_01_source_test_anomaly_0083"
+  ],
+  "objective": 31.859712300596513,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "5": {
+  "medoid_idx": [
+   14,
+   5,
+   19,
+   21,
+   29
+  ],
+  "medoid_ids": [
+   "dev__pump__section_01_source_train_normal_0419_serial_no_010_water",
+   "dev__pump__section_01_source_train_normal_0041_serial_no_010_water",
+   "dev__pump__section_01_source_train_normal_0634_serial_no_010_water",
+   "dev__pump__section_01_source_train_normal_0664_serial_no_010_water",
+   "dev__pump__section_01_target_test_normal_0067"
+  ],
+  "objective": 25.341527359110106,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "6": {
+  "medoid_idx": [
+   5,
+   18,
+   24,
+   12,
+   7,
+   15
+  ],
+  "medoid_ids": [
+   "dev__pump__section_01_source_train_normal_0041_serial_no_010_water",
+   "dev__pump__section_01_source_train_normal_0588_serial_no_010_water",
+   "dev__pump__section_01_source_train_normal_0830_serial_no_010_water",
+   "dev__pump__section_01_source_train_normal_0353_serial_no_010_water",
+   "dev__pump__section_01_source_train_normal_0192_serial_no_010_water",
+   "dev__pump__section_01_source_train_normal_0443_serial_no_010_water"
+  ],
+  "objective": 20.1286626637277,
+  "iterations": 1,
+  "m": 2.0
+ }
+}

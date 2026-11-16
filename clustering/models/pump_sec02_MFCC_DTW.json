@@ -1,0 +1,87 @@
+{
+ "2": {
+  "medoid_idx": [
+   2,
+   17
+  ],
+  "medoid_ids": [
+   "dev__pump__section_02_source_test_normal_0070",
+   "dev__pump__section_02_source_train_normal_0505_serial_no_020"
+  ],
+  "objective": 38.19889082644943,
+  "iterations": 2,
+  "m": 2.0
+ },
+ "3": {
+  "medoid_idx": [
+   23,
+   20,
+   3
+  ],
+  "medoid_ids": [
+   "dev__pump__section_02_source_train_normal_0767_serial_no_021",
+   "dev__pump__section_02_source_train_normal_0659_serial_no_021",
+   "dev__pump__section_02_source_test_normal_0096"
+  ],
+  "objective": 26.366432337602635,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "4": {
+  "medoid_idx": [
+   23,
+   27,
+   18,
+   22
+  ],
+  "medoid_ids": [
+   "dev__pump__section_02_source_train_normal_0767_serial_no_021",
+   "dev__pump__section_02_target_test_anomaly_0083",
+   "dev__pump__section_02_source_train_normal_0588_serial_no_020",
+   "dev__pump__section_02_source_train_normal_0688_serial_no_020"
+  ],
+  "objective": 19.184934506751013,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "5": {
+  "medoid_idx": [
+   1,
+   11,
+   13,
+   15,
+   5
+  ],
+  "medoid_ids": [
+   "dev__pump__section_02_source_test_anomaly_0083",
+   "dev__pump__section_02_source_train_normal_0313_serial_no_021",
+   "dev__pump__section_02_source_train_normal_0386_serial_no_021",
+   "dev__pump__section_02_source_train_normal_0443_serial_no_020",
+   "dev__pump__section_02_source_train_normal_0041_serial_no_021"
+  ],
+  "objective": 14.549958332281438,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "6": {
+  "medoid_idx": [
+   2,
+   26,
+   22,
+   5,
+   14,
+   1
+  ],
+  "medoid_ids": [
+   "dev__pump__section_02_source_test_normal_0070",
+   "dev__pump__section_02_target_test_anomaly_0053",
+   "dev__pump__section_02_source_train_normal_0688_serial_no_020",
+   "dev__pump__section_02_source_train_normal_0041_serial_no_021",
+   "dev__pump__section_02_source_train_normal_0419_serial_no_020",
+   "dev__pump__section_02_source_test_anomaly_0083"
+  ],
+  "objective": 11.782205912462018,
+  "iterations": 1,
+  "m": 2.0
+ }
+}

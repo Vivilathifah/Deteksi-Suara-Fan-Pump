@@ -1,0 +1,87 @@
+{
+ "2": {
+  "medoid_idx": [
+   17,
+   20
+  ],
+  "medoid_ids": [
+   "dev__pump__section_02_source_train_normal_0505_serial_no_020",
+   "dev__pump__section_02_source_train_normal_0659_serial_no_021"
+  ],
+  "objective": 64.08558899711652,
+  "iterations": 2,
+  "m": 2.0
+ },
+ "3": {
+  "medoid_idx": [
+   29,
+   15,
+   7
+  ],
+  "medoid_ids": [
+   "dev__pump__section_02_target_test_normal_0067",
+   "dev__pump__section_02_source_train_normal_0443_serial_no_020",
+   "dev__pump__section_02_source_train_normal_0192_serial_no_020"
+  ],
+  "objective": 44.49379696993138,
+  "iterations": 2,
+  "m": 2.0
+ },
+ "4": {
+  "medoid_idx": [
+   16,
+   5,
+   13,
+   2
+  ],
+  "medoid_ids": [
+   "dev__pump__section_02_source_train_normal_0445_serial_no_020",
+   "dev__pump__section_02_source_train_normal_0041_serial_no_021",
+   "dev__pump__section_02_source_train_normal_0386_serial_no_021",
+   "dev__pump__section_02_source_test_normal_0070"
+  ],
+  "objective": 32.66981326317288,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "5": {
+  "medoid_idx": [
+   13,
+   11,
+   6,
+   17,
+   2
+  ],
+  "medoid_ids": [
+   "dev__pump__section_02_source_train_normal_0386_serial_no_021",
+   "dev__pump__section_02_source_train_normal_0313_serial_no_021",
+   "dev__pump__section_02_source_train_normal_0144_serial_no_020",
+   "dev__pump__section_02_source_train_normal_0505_serial_no_020",
+   "dev__pump__section_02_source_test_normal_0070"
+  ],
+  "objective": 25.34148767800322,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "6": {
+  "medoid_idx": [
+   24,
+   5,
+   0,
+   20,
+   16,
+   18
+  ],
+  "medoid_ids": [
+   "dev__pump__section_02_source_train_normal_0830_serial_no_020",
+   "dev__pump__section_02_source_train_normal_0041_serial_no_021",
+   "dev__pump__section_02_source_test_anomaly_0053",
+   "dev__pump__section_02_source_train_normal_0659_serial_no_021",
+   "dev__pump__section_02_source_train_normal_0445_serial_no_020",
+   "dev__pump__section_02_source_train_normal_0588_serial_no_020"
+  ],
+  "objective": 20.00443907447369,
+  "iterations": 1,
+  "m": 2.0
+ }
+}

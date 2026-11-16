@@ -1,0 +1,87 @@
+{
+ "2": {
+  "medoid_idx": [
+   22,
+   6
+  ],
+  "medoid_ids": [
+   "eval_train__fan__section_04_source_train_normal_0883_strength_1_ambient",
+   "eval_train__fan__section_04_source_train_normal_0280_strength_1_ambient"
+  ],
+  "objective": 38.36875055309547,
+  "iterations": 2,
+  "m": 2.0
+ },
+ "3": {
+  "medoid_idx": [
+   6,
+   24,
+   18
+  ],
+  "medoid_ids": [
+   "eval_train__fan__section_04_source_train_normal_0280_strength_1_ambient",
+   "eval_train__fan__section_04_source_train_normal_0902_strength_1_ambient",
+   "eval_train__fan__section_04_source_train_normal_0740_strength_1_ambient"
+  ],
+  "objective": 24.806562316277446,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "4": {
+  "medoid_idx": [
+   13,
+   25,
+   18,
+   22
+  ],
+  "medoid_ids": [
+   "eval_train__fan__section_04_source_train_normal_0549_strength_1_ambient",
+   "eval_train__fan__section_04_source_train_normal_0938_strength_1_ambient",
+   "eval_train__fan__section_04_source_train_normal_0740_strength_1_ambient",
+   "eval_train__fan__section_04_source_train_normal_0883_strength_1_ambient"
+  ],
+  "objective": 18.628493851615108,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "5": {
+  "medoid_idx": [
+   25,
+   18,
+   21,
+   11,
+   29
+  ],
+  "medoid_ids": [
+   "eval_train__fan__section_04_source_train_normal_0938_strength_1_ambient",
+   "eval_train__fan__section_04_source_train_normal_0740_strength_1_ambient",
+   "eval_train__fan__section_04_source_train_normal_0859_strength_1_ambient",
+   "eval_train__fan__section_04_source_train_normal_0521_strength_1_ambient",
+   "eval_train__fan__section_04_target_train_normal_0000_strength_2_ambient"
+  ],
+  "objective": 14.36598690830902,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "6": {
+  "medoid_idx": [
+   24,
+   5,
+   0,
+   22,
+   19,
+   18
+  ],
+  "medoid_ids": [
+   "eval_train__fan__section_04_source_train_normal_0902_strength_1_ambient",
+   "eval_train__fan__section_04_source_train_normal_0235_strength_1_ambient",
+   "eval_train__fan__section_04_source_train_normal_0076_strength_1_ambient",
+   "eval_train__fan__section_04_source_train_normal_0883_strength_1_ambient",
+   "eval_train__fan__section_04_source_train_normal_0761_strength_1_ambient",
+   "eval_train__fan__section_04_source_train_normal_0740_strength_1_ambient"
+  ],
+  "objective": 11.755679891346187,
+  "iterations": 1,
+  "m": 2.0
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "2": {
+  "medoid_idx": [
+   5,
+   0
+  ],
+  "medoid_ids": [
+   "eval_train__pump__section_03_source_train_normal_0235_serial_no_030_water",
+   "eval_train__pump__section_03_source_train_normal_0076_serial_no_030_water"
+  ],
+  "objective": 38.567521317434476,
+  "iterations": 2,
+  "m": 2.0
+ },
+ "3": {
+  "medoid_idx": [
+   4,
+   13,
+   29
+  ],
+  "medoid_ids": [
+   "eval_train__pump__section_03_source_train_normal_0210_serial_no_030_water",
+   "eval_train__pump__section_03_source_train_normal_0549_serial_no_030_water",
+   "eval_train__pump__section_03_target_train_normal_0000_serial_no_030_viscous_liquid"
+  ],
+  "objective": 27.06184700236678,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "4": {
+  "medoid_idx": [
+   4,
+   12,
+   13,
+   18
+  ],
+  "medoid_ids": [
+   "eval_train__pump__section_03_source_train_normal_0210_serial_no_030_water",
+   "eval_train__pump__section_03_source_train_normal_0527_serial_no_030_water",
+   "eval_train__pump__section_03_source_train_normal_0549_serial_no_030_water",
+   "eval_train__pump__section_03_source_train_normal_0740_serial_no_030_water"
+  ],
+  "objective": 19.15284600204975,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "5": {
+  "medoid_idx": [
+   1,
+   11,
+   14,
+   18,
+   7
+  ],
+  "medoid_ids": [
+   "eval_train__pump__section_03_source_train_normal_0101_serial_no_030_water",
+   "eval_train__pump__section_03_source_train_normal_0521_serial_no_030_water",
+   "eval_train__pump__section_03_source_train_normal_0636_serial_no_030_water",
+   "eval_train__pump__section_03_source_train_normal_0740_serial_no_030_water",
+   "eval_train__pump__section_03_source_train_normal_0319_serial_no_030_water"
+  ],
+  "objective": 14.959512093062543,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "6": {
+  "medoid_idx": [
+   5,
+   21,
+   25,
+   15,
+   7,
+   20
+  ],
+  "medoid_ids": [
+   "eval_train__pump__section_03_source_train_normal_0235_serial_no_030_water",
+   "eval_train__pump__section_03_source_train_normal_0859_serial_no_030_water",
+   "eval_train__pump__section_03_source_train_normal_0938_serial_no_030_water",
+   "eval_train__pump__section_03_source_train_normal_0660_serial_no_030_water",
+   "eval_train__pump__section_03_source_train_normal_0319_serial_no_030_water",
+   "eval_train__pump__section_03_source_train_normal_0811_serial_no_030_water"
+  ],
+  "objective": 11.86029441050437,
+  "iterations": 1,
+  "m": 2.0
+ }
+}

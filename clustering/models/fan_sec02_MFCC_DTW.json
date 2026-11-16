@@ -1,0 +1,87 @@
+{
+ "2": {
+  "medoid_idx": [
+   14,
+   26
+  ],
+  "medoid_ids": [
+   "dev__fan__section_02_source_train_normal_0419_strenght_1_ambient",
+   "dev__fan__section_02_target_test_anomaly_0053"
+  ],
+  "objective": 37.859169504075524,
+  "iterations": 2,
+  "m": 2.0
+ },
+ "3": {
+  "medoid_idx": [
+   29,
+   3,
+   12
+  ],
+  "medoid_ids": [
+   "dev__fan__section_02_target_test_normal_0067",
+   "dev__fan__section_02_source_test_normal_0096",
+   "dev__fan__section_02_source_train_normal_0353_strenght_1_ambient"
+  ],
+  "objective": 25.553238916283696,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "4": {
+  "medoid_idx": [
+   2,
+   14,
+   25,
+   21
+  ],
+  "medoid_ids": [
+   "dev__fan__section_02_source_test_normal_0070",
+   "dev__fan__section_02_source_train_normal_0419_strenght_1_ambient",
+   "dev__fan__section_02_source_train_normal_0993_strenght_1_ambient",
+   "dev__fan__section_02_source_train_normal_0664_strenght_1_ambient"
+  ],
+  "objective": 19.066756937484417,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "5": {
+  "medoid_idx": [
+   13,
+   11,
+   5,
+   18,
+   1
+  ],
+  "medoid_ids": [
+   "dev__fan__section_02_source_train_normal_0386_strenght_1_ambient",
+   "dev__fan__section_02_source_train_normal_0313_strenght_1_ambient",
+   "dev__fan__section_02_source_train_normal_0041_strenght_1_ambient",
+   "dev__fan__section_02_source_train_normal_0588_strenght_1_ambient",
+   "dev__fan__section_02_source_test_anomaly_0083"
+  ],
+  "objective": 14.662494230914511,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "6": {
+  "medoid_idx": [
+   2,
+   14,
+   25,
+   21,
+   1,
+   29
+  ],
+  "medoid_ids": [
+   "dev__fan__section_02_source_test_normal_0070",
+   "dev__fan__section_02_source_train_normal_0419_strenght_1_ambient",
+   "dev__fan__section_02_source_train_normal_0993_strenght_1_ambient",
+   "dev__fan__section_02_source_train_normal_0664_strenght_1_ambient",
+   "dev__fan__section_02_source_test_anomaly_0083",
+   "dev__fan__section_02_target_test_normal_0067"
+  ],
+  "objective": 11.771172777157247,
+  "iterations": 1,
+  "m": 2.0
+ }
+}

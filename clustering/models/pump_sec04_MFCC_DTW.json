@@ -1,0 +1,87 @@
+{
+ "2": {
+  "medoid_idx": [
+   2,
+   21
+  ],
+  "medoid_ids": [
+   "eval_train__pump__section_04_source_train_normal_0136_serial_no_040",
+   "eval_train__pump__section_04_source_train_normal_0859_serial_no_040"
+  ],
+  "objective": 37.5518600185769,
+  "iterations": 2,
+  "m": 2.0
+ },
+ "3": {
+  "medoid_idx": [
+   22,
+   26,
+   21
+  ],
+  "medoid_ids": [
+   "eval_train__pump__section_04_source_train_normal_0883_serial_no_040",
+   "eval_train__pump__section_04_source_train_normal_0947_serial_no_040",
+   "eval_train__pump__section_04_source_train_normal_0859_serial_no_040"
+  ],
+  "objective": 25.288078345220605,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "4": {
+  "medoid_idx": [
+   21,
+   28,
+   26,
+   20
+  ],
+  "medoid_ids": [
+   "eval_train__pump__section_04_source_train_normal_0859_serial_no_040",
+   "eval_train__pump__section_04_source_train_normal_0986_serial_no_040",
+   "eval_train__pump__section_04_source_train_normal_0947_serial_no_040",
+   "eval_train__pump__section_04_source_train_normal_0811_serial_no_040"
+  ],
+  "objective": 18.326529322899958,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "5": {
+  "medoid_idx": [
+   23,
+   29,
+   21,
+   22,
+   4
+  ],
+  "medoid_ids": [
+   "eval_train__pump__section_04_source_train_normal_0899_serial_no_040",
+   "eval_train__pump__section_04_target_train_normal_0000_serial_no_040",
+   "eval_train__pump__section_04_source_train_normal_0859_serial_no_040",
+   "eval_train__pump__section_04_source_train_normal_0883_serial_no_040",
+   "eval_train__pump__section_04_source_train_normal_0210_serial_no_040"
+  ],
+  "objective": 14.488354151769212,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "6": {
+  "medoid_idx": [
+   2,
+   26,
+   22,
+   6,
+   12,
+   1
+  ],
+  "medoid_ids": [
+   "eval_train__pump__section_04_source_train_normal_0136_serial_no_040",
+   "eval_train__pump__section_04_source_train_normal_0947_serial_no_040",
+   "eval_train__pump__section_04_source_train_normal_0883_serial_no_040",
+   "eval_train__pump__section_04_source_train_normal_0280_serial_no_040",
+   "eval_train__pump__section_04_source_train_normal_0527_serial_no_040",
+   "eval_train__pump__section_04_source_train_normal_0101_serial_no_040"
+  ],
+  "objective": 11.900408589219822,
+  "iterations": 1,
+  "m": 2.0
+ }
+}

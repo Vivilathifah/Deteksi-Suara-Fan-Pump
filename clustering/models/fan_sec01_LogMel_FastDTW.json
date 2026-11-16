@@ -1,0 +1,87 @@
+{
+ "2": {
+  "medoid_idx": [
+   18,
+   4
+  ],
+  "medoid_ids": [
+   "dev__fan__section_01_source_train_normal_0588_strenght_1_big_ambient",
+   "dev__fan__section_01_source_train_normal_0001_strenght_1_big_ambient"
+  ],
+  "objective": 65.69371063996722,
+  "iterations": 2,
+  "m": 2.0
+ },
+ "3": {
+  "medoid_idx": [
+   22,
+   27,
+   21
+  ],
+  "medoid_ids": [
+   "dev__fan__section_01_source_train_normal_0688_strenght_1_big_ambient",
+   "dev__fan__section_01_target_test_anomaly_0083",
+   "dev__fan__section_01_source_train_normal_0664_strenght_1_big_ambient"
+  ],
+  "objective": 45.21543532759241,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "4": {
+  "medoid_idx": [
+   16,
+   20,
+   22,
+   28
+  ],
+  "medoid_ids": [
+   "dev__fan__section_01_source_train_normal_0445_strenght_1_big_ambient",
+   "dev__fan__section_01_source_train_normal_0659_strenght_1_big_ambient",
+   "dev__fan__section_01_source_train_normal_0688_strenght_1_big_ambient",
+   "dev__fan__section_01_target_test_normal_0030"
+  ],
+  "objective": 32.552118994591574,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "5": {
+  "medoid_idx": [
+   25,
+   17,
+   21,
+   11,
+   29
+  ],
+  "medoid_ids": [
+   "dev__fan__section_01_source_train_normal_0993_strenght_1_big_ambient",
+   "dev__fan__section_01_source_train_normal_0505_strenght_1_big_ambient",
+   "dev__fan__section_01_source_train_normal_0664_strenght_1_big_ambient",
+   "dev__fan__section_01_source_train_normal_0313_strenght_1_big_ambient",
+   "dev__fan__section_01_target_test_normal_0067"
+  ],
+  "objective": 25.633179498399606,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "6": {
+  "medoid_idx": [
+   29,
+   6,
+   18,
+   22,
+   28,
+   11
+  ],
+  "medoid_ids": [
+   "dev__fan__section_01_target_test_normal_0067",
+   "dev__fan__section_01_source_train_normal_0144_strenght_1_big_ambient",
+   "dev__fan__section_01_source_train_normal_0588_strenght_1_big_ambient",
+   "dev__fan__section_01_source_train_normal_0688_strenght_1_big_ambient",
+   "dev__fan__section_01_target_test_normal_0030",
+   "dev__fan__section_01_source_train_normal_0313_strenght_1_big_ambient"
+  ],
+  "objective": 20.334839496124246,
+  "iterations": 1,
+  "m": 2.0
+ }
+}

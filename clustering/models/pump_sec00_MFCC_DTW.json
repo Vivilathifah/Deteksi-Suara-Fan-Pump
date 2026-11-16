@@ -1,0 +1,87 @@
+{
+ "2": {
+  "medoid_idx": [
+   21,
+   29
+  ],
+  "medoid_ids": [
+   "dev__pump__section_00_source_train_normal_0664_serial_no_000_water",
+   "dev__pump__section_00_target_test_normal_0067"
+  ],
+  "objective": 37.678314890294544,
+  "iterations": 2,
+  "m": 2.0
+ },
+ "3": {
+  "medoid_idx": [
+   29,
+   3,
+   15
+  ],
+  "medoid_ids": [
+   "dev__pump__section_00_target_test_normal_0067",
+   "dev__pump__section_00_source_test_normal_0096",
+   "dev__pump__section_00_source_train_normal_0443_serial_no_000_water"
+  ],
+  "objective": 26.172645805560588,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "4": {
+  "medoid_idx": [
+   21,
+   3,
+   15,
+   11
+  ],
+  "medoid_ids": [
+   "dev__pump__section_00_source_train_normal_0664_serial_no_000_water",
+   "dev__pump__section_00_source_test_normal_0096",
+   "dev__pump__section_00_source_train_normal_0443_serial_no_000_water",
+   "dev__pump__section_00_source_train_normal_0313_serial_no_000_water"
+  ],
+  "objective": 18.675098739123968,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "5": {
+  "medoid_idx": [
+   1,
+   11,
+   13,
+   16,
+   6
+  ],
+  "medoid_ids": [
+   "dev__pump__section_00_source_test_anomaly_0083",
+   "dev__pump__section_00_source_train_normal_0313_serial_no_000_water",
+   "dev__pump__section_00_source_train_normal_0386_serial_no_000_water",
+   "dev__pump__section_00_source_train_normal_0445_serial_no_000_water",
+   "dev__pump__section_00_source_train_normal_0144_serial_no_000_water"
+  ],
+  "objective": 14.07317781449374,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "6": {
+  "medoid_idx": [
+   29,
+   4,
+   21,
+   24,
+   27,
+   9
+  ],
+  "medoid_ids": [
+   "dev__pump__section_00_target_test_normal_0067",
+   "dev__pump__section_00_source_train_normal_0001_serial_no_000_water",
+   "dev__pump__section_00_source_train_normal_0664_serial_no_000_water",
+   "dev__pump__section_00_source_train_normal_0830_serial_no_000_water",
+   "dev__pump__section_00_target_test_anomaly_0083",
+   "dev__pump__section_00_source_train_normal_0233_serial_no_000_water"
+  ],
+  "objective": 11.638759023902779,
+  "iterations": 1,
+  "m": 2.0
+ }
+}

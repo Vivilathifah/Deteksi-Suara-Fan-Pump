@@ -1,0 +1,87 @@
+{
+ "2": {
+  "medoid_idx": [
+   19,
+   25
+  ],
+  "medoid_ids": [
+   "dev__fan__section_00_source_train_normal_0634_strength_1_ambient",
+   "dev__fan__section_00_source_train_normal_0993_strength_1_ambient"
+  ],
+  "objective": 62.83479111481557,
+  "iterations": 2,
+  "m": 2.0
+ },
+ "3": {
+  "medoid_idx": [
+   23,
+   25,
+   19
+  ],
+  "medoid_ids": [
+   "dev__fan__section_00_source_train_normal_0767_strength_1_ambient",
+   "dev__fan__section_00_source_train_normal_0993_strength_1_ambient",
+   "dev__fan__section_00_source_train_normal_0634_strength_1_ambient"
+  ],
+  "objective": 41.13420892167827,
+  "iterations": 2,
+  "m": 2.0
+ },
+ "4": {
+  "medoid_idx": [
+   23,
+   27,
+   19,
+   24
+  ],
+  "medoid_ids": [
+   "dev__fan__section_00_source_train_normal_0767_strength_1_ambient",
+   "dev__fan__section_00_target_test_anomaly_0083",
+   "dev__fan__section_00_source_train_normal_0634_strength_1_ambient",
+   "dev__fan__section_00_source_train_normal_0830_strength_1_ambient"
+  ],
+  "objective": 31.375002309356702,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "5": {
+  "medoid_idx": [
+   2,
+   15,
+   25,
+   21,
+   4
+  ],
+  "medoid_ids": [
+   "dev__fan__section_00_source_test_normal_0070",
+   "dev__fan__section_00_source_train_normal_0443_strength_1_ambient",
+   "dev__fan__section_00_source_train_normal_0993_strength_1_ambient",
+   "dev__fan__section_00_source_train_normal_0664_strength_1_ambient",
+   "dev__fan__section_00_source_train_normal_0001_strength_1_ambient"
+  ],
+  "objective": 25.063931992150703,
+  "iterations": 1,
+  "m": 2.0
+ },
+ "6": {
+  "medoid_idx": [
+   24,
+   6,
+   0,
+   23,
+   20,
+   21
+  ],
+  "medoid_ids": [
+   "dev__fan__section_00_source_train_normal_0830_strength_1_ambient",
+   "dev__fan__section_00_source_train_normal_0144_strength_1_ambient",
+   "dev__fan__section_00_source_test_anomaly_0053",
+   "dev__fan__section_00_source_train_normal_0767_strength_1_ambient",
+   "dev__fan__section_00_source_train_normal_0659_strength_1_ambient",
+   "dev__fan__section_00_source_train_normal_0664_strength_1_ambient"
+  ],
+  "objective": 20.034059458137392,
+  "iterations": 1,
+  "m": 2.0
+ }
+}
